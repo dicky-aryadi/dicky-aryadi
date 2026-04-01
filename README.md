@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📙 I’m currently studying at **Sultan Ageng Tirtayasa University**
 - 🔭 I’m currently working on **ZonaEBT**
-- 🌱 I’m currently learning programming and design
+- 🌱 I’m currently learning **programming and design**
 - 🌮 I really love **kebabs**
 - 🔗 Feel free to check out my [Linkedin](www.linkedin.com/in/dicky-aryadi) Profile
 - 📩 You can also reach me via [email](mailto:aryadidicky20@gmail.com)<br><br>
